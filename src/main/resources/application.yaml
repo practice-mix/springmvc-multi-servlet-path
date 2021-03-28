@@ -1,0 +1,6 @@
+spring:
+  mvc:
+    servlet:
+      path: /default
+server:
+  port: 8080
